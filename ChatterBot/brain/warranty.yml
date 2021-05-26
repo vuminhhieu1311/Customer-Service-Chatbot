@@ -1,0 +1,14 @@
+categories:
+  - This is own data outside the corpus
+conversations: 
+  - - kiểm tra bảo hành
+    - Bạn cho mình xin mã đơn hàng để mình kiểm tra giúp bạn ạ.
+
+  - - vẫn còn thời hạn bảo hành
+    - Vì máy của bạn vẫn còn thời hạn bảo hành, bạn mang qua shop, shop sẽ sửa chữa miễn phí cho bạn ạ.
+
+  - - hết hạn bảo hành
+    - Dù máy của bạn hết hạn bảo hành tuy nhiên bạn vẫn có thể mang qua shop để shop tư vấn việc sửa chữa ạ.
+
+  - - ko trùng serial
+    - Bạn vui lòng kiểm tra lại mã đơn hàng ạ.

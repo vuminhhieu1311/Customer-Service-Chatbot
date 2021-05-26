@@ -1,0 +1,210 @@
+﻿categories:
+- This is my own data ouside the corpus
+conversations:
+- - Mình chưa hiểu rõ lắm, bạn vui lòng nhắc lại được không ạ.
+- - xin chào
+  - Chào mừng bạn đến với Laptop247. Mình có thể giúp gì cho bạn ạ?
+- - cảm ơn
+  - Không có gì ạ. Rất vui được hỗ trợ bạn!
+- - mua laptop
+  - Bạn muốn mua loại nào?
+- - mẫu nào
+  - Dạ, bên mình có rất nhiều hãng laptop phổ biến nhất hiện nay như Macbook, Asus, HP, Dell, Lenovo, Acer,... Bạn muốn chọn loại nào ạ?
+
+- - dell 
+  - Bên mình có rất nhiều mẫu Dell cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây ạ 
+    <a href="https://www.thegioididong.com/laptop-dell" target="_blank">Click here</a>
+    Bạn muốn mua máy trong tầm giá bao nhiêu ạ?
+- - macbook
+  - Dạ, bên mình có rất nhiều mẫu Macbook cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây ạ 
+    <a href="https://www.thegioididong.com/laptop-apple-macbook" target="_blank">Click here</a>
+    Bạn muốn mua máy trong tầm giá bao nhiêu ạ?
+- - asus
+  - Dạ, bên mình có rất nhiều mẫu Asus cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây ạ 
+    <a href="https://www.thegioididong.com/laptop-asus" target="_blank">Click here</a>
+    Bạn muốn mua máy trong tầm giá bao nhiêu ạ?
+- - hp
+  - Dạ, bên mình có rất nhiều mẫu HP cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây ạ 
+    <a href="https://www.thegioididong.com/laptop-hp-compaq" target="_blank">Click here</a>
+    Bạn muốn mua máy trong tầm giá bao nhiêu ạ?
+- - lenovo
+  - Dạ, bên mình có rất nhiều mẫu Lenovo cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây ạ 
+    <a href="https://www.thegioididong.com/laptop-lenovo" target="_blank">Click here</a>
+    Bạn muốn mua máy trong tầm giá bao nhiêu ạ?
+- - acer
+  - Dạ, bên mình có rất nhiều mẫu Acer cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây ạ 
+    <a href="https://www.thegioididong.com/laptop-acer" target="_blank">Click here</a>
+    Bạn muốn mua máy trong tầm giá bao nhiêu ạ?
+
+- - tư vấn
+  - Bạn có thể cho mình biết nghề nghiệp và mục đích sử dụng laptop của bạn là gì được không?
+- - học tập
+  - Mời bạn tham khảo một số dòng laptop phục vụ nhu cầu học tập - văn phòng sau đây ạ 
+    <a href="https://www.thegioididong.com/laptop?g=hoc-tap-van-phong" target="_blank">Click here</a>
+- - đồ họa kĩ thuật
+  - Mời bạn tham khảo một số dòng laptop thiên về đồ họa - kĩ thuật sau đây ạ 
+    <a href="https://www.thegioididong.com/laptop?g=do-hoa-ky-thuat" target="_blank">Click here</a> 
+- - chơi game
+  - Nếu bạn chơi game nặng, nhiều thì cần chip hiệu năng cao như H, HQ, M, màn với tần số 120Hz trở lên giúp trải nghiệm tốt hơn. 
+   Đi kèm với nó là tản nhiệt đủ tốt, RAM tối thiểu 8Gb, phải có ổ SSD giúp load ứng dụng nhanh hơn, cần có card đồ họa rời 
+   (NVIDIA GTX series, NVIDIA RTX series, AMD RX series, etc). Mời bạn tham khảo một số dòng laptop gaming phổ biến sau đây ạ 
+    <a href="https://www.thegioididong.com/laptop?g=laptop-gaming" target="_blank">Click here</a>
+- - mỏng nhẹ
+  - Mời bạn tham khảo một số dòng laptop mỏng nhẹ, thời trang sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?g=mong-nhe-thoi-trang" target="_blank">Click here</a>
+- - văn phòng
+  - Nếu bạn làm việc văn phòng nhẹ nhàng, là dân kinh tế thì một con chip U thế hệ 5-6 trở lên cùng với ổ SSD là đủ đáp ứng yêu cầu. 
+   Đi kèm với đó nên có numpad thuận tiện việc nhập liệu, RAM tối thiểu 8gb để có thể làm ppt, word, excel, ... 
+   một cách mượt mà. Nếu thích xem phim có thể chọn máy có màn độ phân giải cao, độ hiển thị tốt.
+   Mời bạn tham khảo một số dòng laptop phù hợp với dân văn phòng sau đây ạ 
+    <a href="https://www.thegioididong.com/laptop?g=hoc-tap-van-phong" target="_blank">Click here</a>
+- - lập trình
+  - Là một lập trình viên, đặc biệt là lập trình android, bạn nên có một con lap chip H, HQ, M hiệu năng cao giúp việc build project 
+   trở nên nhanh hơn, RAM tối thiểu 16Gb, cùng với hệ thống tản nhiệt của máy tốt. Màn hình nên là 15,6 inch Full HD 
+   có tấm nền IPS (giúp đỡ mỏi mắt), pin đủ lâu để có thể thuận tiện làm việc mọi lúc mọi nơi. 
+   Bàn phím cũng là một điều rất quan trọng, một bàn phím độ nảy cao, hành trình phím lớn giúp cho việc code ko bị đau tay.
+   Mời bạn tham khảo một số dòng laptop chuyên dụng cho các lập trình viên sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?g=do-hoa-ky-thuat" target="_blank">Click here</a>
+- - thiết kế đồ họa
+  - Là một designer thì màu sắc là thứ cực kì quan trọng. Bởi vậy bạn cần một laptop có chỉ số sGRB(Dynamic Range) và Bit Depth càng cao càng tốt, 
+   một sản phẩm ko thể đẹp nếu màu sắc, bố cục, mức độ hiển thị không tốt. Một con chip hiệu năng cao và RAM là thứ không thể thiếu để có thể chạy mượt mà PS hay Lightroom,...
+   Card màn hình là thứ cực kì quan trọng, bạn sẽ cần card NVIDIA Quadro phục vụ tốt cho việc xử lý ảnh.
+   Mời bạn tham khảo một số dòng laptop phục vụ nhu cầu thiết kế đồ họa sau đây ạ 
+   <a href="https://www.thegioididong.com/laptop?g=do-hoa-ky-thuat" target="_blank">Click here</a> 
+- - tư vấn thêm
+  - Bạn cần mình tư vấn thêm gì không?
+
+- - dưới 10 triệu
+  - Mời bạn tham khảo một số dòng laptop với mức giá dưới 10 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?p=duoi-10-trieu" target="_blank">Click here</a>
+- - 15 triệu
+  - Mời bạn tham khảo một số dòng laptop với mức giá từ 10 đến 15 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?p=10-15-trieu" target="_blank">Click here</a>
+- - 20 triệu
+  - Mời bạn tham khảo một số dòng laptop với mức giá từ 15 đên 20 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?p=15-20-trieu" target="_blank">Click here</a>
+- - 25 triệu
+  - Mời bạn tham khảo một số dòng laptop với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?p=20-25-trieu" target="_blank">Click here</a>
+- - từ 26 triệu
+  - Mời bạn tham khảo một số dòng laptop với mức giá trên 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop?p=20-25-trieu" target="_blank">Click here</a>
+
+- - asus_10_triệu
+  - Mời bạn tham khảo một số máy Asus với mức giá dưới 10 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?p=duoi-10-trieu" target="_blank">Click here</a>
+- - asus_15_triệu
+  - Mời bạn tham khảo một số máy Asus với mức giá từ 10 đến 15 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?p=10-15-trieu" target="_blank">Click here</a>
+- - asus_20_triệu
+  - Mời bạn tham khảo một số máy Asus với mức giá từ 15 đến 20 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?p=15-20-trieu" target="_blank">Click here</a>
+- - asus_25_triệu
+  - Mời bạn tham khảo một số máy Asus với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?p=20-25-trieu" target="_blank">Click here</a>
+- - macbook1 25 triệu
+  - Mời bạn tham khảo một số máy Macbook với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-apple-macbook?p=20-25-trieu" target="_blank">Click here</a>
+- - macbook2 26 triệu
+  - Mời bạn tham khảo một số máy Macbook với mức giá trên 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-apple-macbook?p=tren-25-trieu" target="_blank">Click here</a>
+- - hp1 15 triệu
+  - Mời bạn tham khảo một số máy HP với mức giá từ 10 đến 15 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?p=10-15-trieu" target="_blank">Click here</a>
+- - hp2 20 triệu
+  - Mời bạn tham khảo một số máy HP với mức giá từ 15 đến 20 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?p=15-20-trieu" target="_blank">Click here</a>
+- - hp3 25 triệu
+  - Mời bạn tham khảo một số máy HP với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?p=20-25-trieu" target="_blank">Click here</a>
+- - hp4 26 triệu
+  - Mời bạn tham khảo một số máy HP với mức giá trên 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?p=tren-25-trieu" target="_blank">Click here</a>
+- - lenovo1 
+  - Mời bạn tham khảo một số máy Lenovo với mức giá từ 10 đến 15 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-lenovo?p=10-15-trieu" target="_blank">Click here</a>
+- - lenovo2 
+  - Mời bạn tham khảo một số máy Lenovo với mức giá từ 15 đến 20 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-lenovo?p=15-20-trieu" target="_blank">Click here</a>
+- - lenovo3 
+  - Mời bạn tham khảo một số máy Lenovo với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-lenovo?p=20-25-trieu" target="_blank">Click here</a>
+- - lenovo4 
+  - Mời bạn tham khảo một số máy Lenovo với mức giá trên 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-lenovo?p=tren-25-trieu" target="_blank">Click here</a>
+- - acer1
+  - Mời bạn tham khảo một số máy Acer với mức giá từ 10 đến 15 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-acer?p=10-15-trieu" target="_blank">Click here</a>
+- - acer2 
+  - Mời bạn tham khảo một số máy Acer với mức giá từ 15 đến 20 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-acer?p=15-20-trieu" target="_blank">Click here</a>
+- - acer3 
+  - Mời bạn tham khảo một số máy Dell với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-acer?p=20-25-trieu" target="_blank">Click here</a>
+- - acer4
+  - Mời bạn tham khảo một số máy Dell với mức giá trên 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-acer?p=tren-25-trieu" target="_blank">Click here</a>
+- - dell1
+  - Mời bạn tham khảo một số máy Dell với mức giá từ 10 đến 15 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?p=10-15-trieu" target="_blank">Click here</a>
+- - dell2 
+  - Mời bạn tham khảo một số máy Dell với mức giá từ 15 đến 20 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?p=15-20-trieu" target="_blank">Click here</a>
+- - dell3 
+  - Mời bạn tham khảo một số máy Dell với mức giá từ 20 đến 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?p=20-25-trieu" target="_blank">Click here</a>
+- - dell4
+  - Mời bạn tham khảo một số máy Dell với mức giá trên 25 triệu sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?p=tren-25-trieu" target="_blank">Click here</a>
+
+- - asus_học_tập
+  - Mời bạn tham khảo một số máy Asus phục vụ nhu cầu học tập - văn phòng sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?g=hoc-tap-van-phong" target="_blank">Click here</a>
+- - asus_đồ_họa_kĩ_thuật
+  - Mời bạn tham khảo một số máy Asus phục vụ nhu cầu về đồ họa - kĩ thuật - lập trình sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?g=do-hoa-ky-thuat" target="_blank">Click here</a>
+- - asus_gaming
+  - Mời bạn tham khảo một dòng Asus chuyên về gaming sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?g=laptop-gaming" target="_blank">Click here</a>
+- - asus_mỏng_nhẹ
+  - Mời bạn tham khảo một dòng Asus mỏng, nhẹ và vô cùng sang trọng sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-asus?g=mong-nhe-thoi-trang" target="_blank">Click here</a>
+- - macbook_học_tập
+  - Mời bạn tham khảo một số máy Macbook phục vụ nhu cầu học tập - văn phòng sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-apple-macbook?g=hoc-tap-van-phong" target="_blank">Click here</a>
+- - macbook_mỏng_nhẹ
+  - Mời bạn tham khảo một số máy Macbook mỏng, nhẹ và vô cùng sang trọng sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-apple-macbook?g=mong-nhe-thoi-trang" target="_blank">Click here</a>
+- - macbook_đồ_họa_kĩ_thuật
+  - Mời bạn tham khảo một số máy Macbook phục vụ nhu cầu về đồ họa - kĩ thuật - lập trình sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-apple-macbook?g=do-hoa-ky-thuat" target="_blank">Click here</a>
+- - dell_học_tập
+  - Mời bạn tham khảo một số máy Dell phục vụ nhu cầu học tập - văn phòng sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?g=hoc-tap-van-phong" target="_blank">Click here</a>
+- - dell_đồ_họa_kĩ_thuật
+  - Mời bạn tham khảo một số máy Dell phục vụ nhu cầu về đồ họa - kĩ thuật - lập trình sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?g=do-hoa-ky-thuat" target="_blank">Click here</a>
+- - dell_gaming
+  - Mời bạn tham khảo một dòng Dell chuyên về gaming sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-dell?g=laptop-gaming" target="_blank">Click here</a>
+- - hp_học_tập
+  - Mời bạn tham khảo một số máy Dell phục vụ nhu cầu học tập - văn phòng sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?g=hoc-tap-van-phong" target="_blank">Click here</a>
+- - hp_đồ_họa_kĩ_thuật
+  - Mời bạn tham khảo một số máy Dell phục vụ nhu cầu về đồ họa - kĩ thuật - lập trình sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?g=do-hoa-ky-thuat" target="_blank">Click here</a>
+- - hp_gaming
+  - Mời bạn tham khảo một dòng Dell chuyên về gaming sau đây ạ
+   <a href="https://www.thegioididong.com/laptop-hp-compaq?g=laptop-gaming" target="_blank">Click here</a>
+
+- - bán chạy
+  - Mời bạn tham khảo một số máy đang bán chạy nhất trên trị trường hiện nay. 
+   <a href="https://fptshop.com.vn/may-tinh-xach-tay?sort=ban-chay-nhat" target="_blank">Click here</a>
+- - pin khỏe
+  - Bạn có thể tham khảo một số dòng máy Pin khủng cho khả năng sử dụng liên tục đến 16-17 giờ 
+   như Lenovo Yoga 920, Lenovo ThinkPad T480, Dell XPS 13, Apple MacBook Pro, HP Spectre x360, Samsung Notebook 9, Acer Chromebook R 13, Microsoft Surface Laptop, Asus Zenbook 13,... sau đây 
+   <a href="https://laptopfull.com/laptop-pin-tren-8-gio/" target="_blank">Click here</a>
+- - tặng kèm
+  - Da, khi bạn mua máy tính tại Laptop247, bạn sẽ được tặng kèm một chuột không dây Logitech B175 269.000 đồng, 
+    một balo đựng laptop có in logo của Laptop247 250.000 đồng, được tham gia bốc thăm để có cơ hội nhận được chiếc
+    Iphone 12 Pro Max, cùng nhiều phần quà ưu đãi khác ạ.

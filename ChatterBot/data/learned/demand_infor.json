@@ -1,0 +1,99 @@
+﻿{
+  "demand_info": [
+    {
+      "laptop_name": "asus",
+      "price": 20,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "dell",
+      "price": 25,
+      "purpose": "gaming"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 15,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "lenovo",
+      "price": 15,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "macbook",
+      "price": 30,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 20,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "dell",
+      "price": 15,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "macbook",
+      "price": 30,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "học tập - văn phòng"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    },
+    {
+      "laptop_name": "asus",
+      "price": 12,
+      "purpose": "đồ họa - kĩ thuật"
+    }
+  ]
+}

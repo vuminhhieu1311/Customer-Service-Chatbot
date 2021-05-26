@@ -1,0 +1,33 @@
+{
+  "thay_the_loa": {
+    "link": [
+      "<a href='https://hienlaptop.com/sp/bo-loa-macbook-a1369-a1466-2011-2018' target='_blank'>LOA MACBOOK A1369 A1466</a>",
+      "<a href='https://hienlaptop.com/sp/bo-loa-macbook-air-11-a1370-mc505-mc506-mc968-mc969-2010-2011-a1465-a1370-a1465-2010-2015' target='_blank'>LOA MACBOOK Air</a>"
+    ]
+  },
+  "ssd_128": {
+    "link": [
+      "<a href='https://memoryzone.com.vn/ssd-kingston-a400-sata-3-120gb-sa400s37120g' target='_blank'>SSD Kingston A400 2.5-Inch SATA III 120GB</a>",
+      "<a href='https://memoryzone.com.vn/ssd-samsung-nvme-pm971a-m-2-pcie-gen3-x2-128gb-kus020205m-b000' target='_blank'>SSD Samsung NVMe PM971a M.2 PCIe Gen3 x2 128GB</a>"
+    ]
+  },
+  "ssd_256": {
+    "link": [
+      "<a href='https://memoryzone.com.vn/ssd-kingston-kc600-256gb-2-5-inch-sata-iii-skc600-256g' target='_blank'>SSD Kingston KC600 256GB 2.5-Inch SATA III SKC600/256G</a>",
+      "<a href='https://memoryzone.com.vn/ssd-transcend-msata-sata-iii-256gb-msa230s-3d-nand-ts256gmsa230s' target='_blank'>SSD Transcend mSATA SATA III 256GB MSA230S 3D-NAND TS256GMSA230S</a>"
+    ]
+  },
+  "hdd_500": {
+    "link": [
+      "<a href='https://memoryzone.com.vn/hdd-seagate-barracuda-500gb-2-5-inch-sata-iii-128mb-cache-5400rpm-st500lm030' target='_blank'>HDD Seagate BarraCuda 500GB 2.5 inch SATA III 128MB Cache 5400RPM ST500LM030</a>",
+      "<a href='https://memoryzone.com.vn/hdd-wd-black-500gb-3-5-inch-sata-iii-64mb-cache-7200rpm-wd5003azex' target='_blank'>HDD WD Black 500GB 3.5 inch SATA III 64MB Cache 7200RPM WD5003AZEX</a>"
+    ]
+  },
+  "hdd_1000": {
+    "link": [
+      "<a href='https://memoryzone.com.vn/hdd-seagate-barracuda-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-st1000dm010' target='_blank'>HDD Seagate BarraCuda 1TB 3.5 inch SATA III 64MB Cache 7200RPM ST1000DM010</a>",
+      "<a href='https://memoryzone.com.vn/hdd-wd-blue-1tb-3-5-inch-sata-iii-64mb-cache-7200rpm-wd10ezex' target='_blank'>HDD WD Blue 1TB 3.5 inch SATA III 64MB Cache 7200RPM WD10EZEX</a>"
+    ]
+  },
+  "phu_kien": "thay_the_loa"
+}

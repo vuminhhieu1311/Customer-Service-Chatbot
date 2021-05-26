@@ -1,0 +1,26 @@
+categories:
+  - This is my own data ouside the corpus about accessories
+conversations:
+  - - unknown
+    - Mình chưa hiểu rõ lắm, bạn vui lòng nhắc lại được không ạ
+  - - bạn là ai
+    - Mình là một sản phẩm nhân tạo
+  - - phụ_kiện
+    - Bạn muốn thông tin loại phụ kiện nào ạ. Bên mình có rất nhiều loại ram,
+      ổ cứng ssd, ổ cứng hdd, vga, sạc...
+      Bạn muốn loại nào ạ
+  - - hãng_phụ_kiện
+    - Bên mình có rất nhiều !type! hãng !brand! cho bạn lựa chọn.
+      Bạn có thể tham khảo thêm tại đây !link!.
+  - - model_phụ_kiện
+    - Bên mình có rất nhiều !type! dòng !model! cho bạn lựa chọn.
+      Bạn có thể tham khảo thêm tại đây !link!.
+  - - loại_phụ_kiện
+    - Bên mình có rất nhiều loại !type! cho bạn lựa chọn. Bạn có thể tham khảo thêm tại đây !link!.
+      Bên mình có những hãng và dòng đang được nhiều khách hàng quan tâm như !list!.
+      Bạn muốn mua !type! hãng hay dòng nào ạ
+  - - thông_tin_phụ_kiện
+    - Dạ thông tin các loại !phụ kiện! bạn có thể tham khảo tại đây ạ !link!
+  - - laptop_features
+    - Bên mình có rất nhiều máy tính có !feature! cho bạn lựa chọn.
+      Bạn có thể tham khảo thêm tại đây !link!.

@@ -1,0 +1,54 @@
+{
+  "ram": {
+    "8gb": 0,
+    "16gb": 2,
+    "common": 14,
+    "gigabyte": 0,
+    "kingston": 0,
+    "samsung": 6
+  },
+  "ssd": {
+    "sata 3": 0,
+    "m2": 0,
+    "pcle": 0,
+    "128gb": 0,
+    "256gb": 0,
+    "512gb": 0,
+    "common": 0,
+    "samsung": 0,
+    "kingston": 0,
+    "toshiba": 0,
+    "seagate": 0
+  },
+  "hdd": {
+    "1tb": 0,
+    "2tb": 0,
+    "common": 0,
+    "samsung": 0,
+    "kingston": 0,
+    "toshiba": 0,
+    "seagate": 0
+  },
+  "vga": {
+    "common": 0,
+    "asus": 0
+  },
+  "cpu": {
+    "i5": 0,
+    "i7": 0,
+    "i9": 0,
+    "8th": 0,
+    "9th": 0,
+    "10th": 0,
+    "ryzen3": 0,
+    "ryzen4": 0,
+    "common": 0,
+    "intel": 0,
+    "amd": 0
+  },
+  "adapter": {
+    "common": 0,
+    "asus": 0,
+    "dell": 0
+  }
+}

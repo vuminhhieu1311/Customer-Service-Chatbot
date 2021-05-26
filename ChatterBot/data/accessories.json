@@ -1,0 +1,54 @@
+{
+  "ram": {
+    "8gb": "https://gearvn.com/collections/ddr4-8gb",
+    "16gb": "https://gearvn.com/collections/ddr4-16g",
+    "common": "https://xgear.vn/?s=ram&search_posttype=product",
+    "gigabyte": "https://xgear.vn/?s=ram+gigabyte&search_posttype=product",
+    "kingston": "https://xgear.vn/?s=ram+kingston&search_posttype=product",
+    "samsung": "https://xgear.vn/?s=ram+samsung&search_posttype=product"
+  },
+  "ssd": {
+    "sata 3": "https://gearvn.com/collections/ssd-sata-3",
+    "m2": "https://gearvn.com/collections/ssd-laptop-m-2-sata",
+    "pcle": "https://gearvn.com/collections/ssd-m-2-pcie-gen-3x2",
+    "128gb": "https://gearvn.com/collections/ssd-120g",
+    "256gb": "https://gearvn.com/collections/ssd-240g",
+    "512gb": "https://gearvn.com/collections/ssd-480-512gb",
+    "common": "https://xgear.vn/linh-kien/o-cung-ssd/",
+    "samsung": "https://thinkpro.vn/tim-kiem?search=ssd%20samsung",
+    "kingston": "https://thinkpro.vn/tim-kiem?search=ssd%20kingston",
+    "toshiba": "https://tuanphong.vn/ssd/ssd-120gb-toshiba-a100",
+    "seagate": "https://xgear.vn/ssd-seagate-barracuda-510-255gb-nvme-pcie-gen3-x4/"
+  },
+  "hdd": {
+    "1tb": "https://gearvn.com/collections/western-digital-1tb",
+    "2tb": "https://gearvn.com/collections/hdd-2tb",
+    "common": "https://xgear.vn/linh-kien/o-cung-hdd/",
+    "samsung": "https://www.anphatpc.com.vn/o-cung-hdd-ssd_dm1314.html",
+    "kingston": "https://phongvu.vn/o-cung-ssd-kingston-a400-120gb-sata-3-sa400s37120g-s1704461.html",
+    "toshiba": "https://thinkpro.vn/o-cung-hdd-25-toshiba-1000gb?option=HDD25TOS1000",
+    "seagate": "https://thinkpro.vn/o-cung-hdd-35-seagate-barracuda-500gb?option=HDD35SGB500"
+  },
+  "vga": {
+    "common": "https://xgear.vn/linh-kien/vga/",
+    "asus": "https://www.anphatpc.com.vn/tim?scat_id=&q=vga+asus"
+  },
+  "cpu": {
+    "i5": "https://gearvn.com/search?type=product&q=filter=((title%3Aproduct**i5))",
+    "i7": "https://gearvn.com/search?type=product&q=filter=((title%3Aproduct**i7))",
+    "i9": "https://gearvn.com/search?type=product&q=filter=((title%3Aproduct**i9))",
+    "8th": "https://gearvn.com/collections/cpu-8th-gen",
+    "9th": "https://gearvn.com/collections/coffeelake-r-gen9-lga1151v2",
+    "10th": "https://gearvn.com/collections/cpu-10th-gen",
+    "ryzen3": "https://gearvn.com/collections/cpu-amd-ryzen-gen3-am4",
+    "ryzen4": "https://gearvn.com/collections/cpu-amd-ryzen-gen5-am4",
+    "common": "https://xgear.vn/?s=cpu&search_posttype=product",
+    "intel": "https://xgear.vn/cpu-intel/",
+    "amd": "https://xgear.vn/cpu-amd-ryzen/"
+  },
+  "adapter": {
+    "common": "https://www.hanoicomputer.vn/sac-laptop",
+    "asus": "https://www.hanoicomputer.vn/sac-laptop?brand=asus",
+    "dell": "https://www.hanoicomputer.vn/sac-laptop?brand=dell"
+  }
+}

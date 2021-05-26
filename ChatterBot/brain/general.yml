@@ -1,0 +1,55 @@
+categories:
+  - This is my own data ouside the corpus
+conversations:
+  - - unknown
+    - Mình chưa hiểu rõ lắm, bạn vui lòng nhắc lại được không ạ.
+  - - xin chào
+    - Chào mừng bạn đến với Laptop247. Bạn vui lòng chọn mục bên dưới để được tư vấn ạ.
+  - - xin chào
+    - Chào bạn. Bạn có thắc mắc gì liên quan đến cửa hàng chúng mình ạ.
+  - - xin chào
+    - Chào bạn, rất vui được hỗ trợ bạn. Bạn có thắc mắc gì liên quan đến cửa hàng chúng mình ạ ?
+  - - tạm_biệt
+    - Cám ơn bạn quan tâm đến cửa hàng. Rất mong được phục vụ bạn sớm nhất ạ
+  - - tạm_biệt
+    - Chúc bạn một ngày vui vẻ.
+  - - cám_ơn
+    - Không có gì ạ. Rất vui được hỗ trợ bạn!
+  - - cám_ơn
+    - Không có gì ạ, mình rất vui được hỗ trợ bạn.
+  - - địa_chỉ
+    - Mời bạn ghé qua cửa hàng của chúng mình tại 40 Lê Thanh Nghị để được các bạn nhân viên hỗ trợ nha.
+  - - ưu đãi
+    - Dạ, từ ngày !sale_start! đến hết ngày !sale_end! shop đang có chương trình giảm giá lên đến 50% cho một số mặt hàng.
+      Mời bạn ghé qua shop sớm để hưởng thật nhiều ưu đãi nhé.
+  - - chọn_được
+    - Bạn có thể ghé qua Laptop247 số 40 Lê Thanh Nghị để các nhân vân viên hỗ trợ mua hàng trực tiếp.
+      Hoặc bạn cũng có thể đặt hàng online tại đây.
+  - - mua_trực_tiếp
+    - Hẹn gặp bạn tại cửa hàng Laptop247 tại địa chỉ 40 Lê Thanh Nghị
+  - - begin_order
+    - Vui lòng ấn 5 để tiếp tục.
+  - - save_product_link
+    - Bạn vui lòng cho mình xin link thông tin sản phẩm ạ.
+  - - save_name
+    - Bạn vui lòng cho mình xin họ tên của bạn ạ.
+  - - save_phone
+    - Bạn vui lòng cho mình xin số điện thoại để shipper liên lạc ạ.
+  - - save_address
+    - Bạn vui lòng cho mình xin địa chỉ để shipper giao hàng ạ.
+  - - confirm_order
+    - Bạn vui lòng xác nhận thông tin đơn hàng
+      <div style="display:inline-block;">
+      <p><span>Mã đơn !id!</span></p>
+      <p><span>Họ tên !name!</span></p>
+      <p><span>Sđt !phone!</span></p>
+      <p><span>Địa chỉ !address!</span></p>
+      <p><span>Sản phảm !product!</span></p>
+      <p><span>Ấn 1 để xác nhận, 2 để huỷ, 0 để thay đổi thông tin cá nhân</span></p>
+      </div>
+  - - cancel_order
+    - Ấn 2 nhé.
+  - - order_confirmed
+    - Đơn hàng thành công. Ấn 7 để kết thúc, 5 để đặt đơn mới
+  - - order_canceled
+    - Đơn hàng đã được huỷ. Ấn 7 để kết thúc, 5 để đặt đơn mới

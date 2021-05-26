@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css">
+    <style>
+        body {
+            font-family: Garamond;
+            background: beige;
+        }
+
+        h1 {
+            color: black;
+            margin-bottom: 0;
+            margin-top: 0;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 40px;
+        }
+
+        h3 {
+            color: black;
+            font-size: 20px;
+            margin-top: 3px;
+            text-align: center;
+        }
+
+        #chatbox {
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+            margin-top: 60px;
+        }
+
+        #userInput {
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
+            margin-top: 60px;
+        }
+
+        #textInput {
+            width: 87%;
+            border: none;
+            border-bottom: 3px solid #009688;
+            font-family: monospace;
+            font-size: 17px;
+        }
+
+        .userText {
+            color: white;
+            font-family: monospace;
+            font-size: 17px;
+            text-align: right;
+            line-height: 30px;
+        }
+
+        .userText span {
+            background-color: #009688;
+            padding: 10px;
+            border-radius: 2px;
+        }
+
+        .botText {
+            color: white;
+            font-family: monospace;
+            font-size: 17px;
+            text-align: left;
+            display: block;
+            line-height: 30px;
+        }
+
+        .botText img {
+            float: left;
+            height: 50px;
+            max-width: 60px;
+            width: 100%;
+            margin-right: 20px;
+            margin-left: 20px;
+            border-radius: 50%;
+        }
+
+        .botText span {
+            background-color: #EF5350;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        #tidbit {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 300px;
+        }
+
+        .btn {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 60px;
+            margin-bottom: 10px;
+            font-family: monospace;
+            font-size: 17px;
+        }
+
+        .active-button,
+        .btn:hover {
+            color: white;
+            background-color: #06c;
+        }
+    </style>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>LAPTOPSTORE 24/7 SUPPORTER BOT</h1>
+    <h1 style="font-size: 25px; font-style: italic;">Thực hiện bởi Nhóm 8</h1>
+    <div>
+        <div style="margin-top: 15px;">
+            <div style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
+                <img alt="cheemes" src="https://i.pinimg.com/474x/d1/4f/d1/d14fd174ad622b88c3e942e8ad73a5e4.jpg"
+                    style="width: 200px; height: 200px; border-radius: 50%;">
+                <img src="https://cdn.thewirecutter.com/wp-content/uploads/2020/04/laptops-lowres-2x1--1024x512.jpg"
+                    alt="logo" style="width: 200px; height: 200px; margin-left: 20px; border-radius: 50%;">
+            </div>
+        </div>
+        <div id="chatbox">
+            <div class="botText">
+                <div>
+                    <img src="https://i.kym-cdn.com/entries/icons/original/000/028/526/honklhonk.jpg" alt="Bot"
+                        style="width:100%;">
+                </div>
+                <div>
+                    <span>Chào mừng bạn đến với dịch vụ chăm sóc khách hàng tự động của LAPTOPSTORE. Hãy chọn mục cần tư
+                        vấn.</span>
+                </div>
+            </div>
+        </div>
+        <div style="margin-left: auto; margin-right: auto; width: 400px;">
+            <button id="advisory" class="btn" style="margin-right: 5px;" onclick="getBotResponseAdvisory()"
+                title="Click để được tư vấn bán hàng">Tư vấn - Mua hàng</button>
+            <button id="repair" class="btn" onclick="getBotResponseRepair()"
+                title="Click để được thông tin sửa chữa">Bảo hành - Sửa
+                chữa</button>
+        </div>
+        <div id="userInput">
+            <input id="textInput" type="text" name="msg" placeholder="Message" style="border-radius: 5px;">
+            <input id="buttonInput" type="submit" value="Send"
+                style="border-radius: 5px; font-family: monospace; font-size: 17px;">
+        </div>
+        <script>
+            var responeType = "general"
+            var order = false
+
+            function getBotResponse() {
+                var rawText = $("#textInput").val();
+                var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+                $("#textInput").val("");
+                $("#chatbox").append(userHtml);
+                document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+
+                if (rawText == '5') {
+                    order = true;
+                    responeType = "order";
+                }
+                if (rawText == '7' && order) {
+                    order = false;
+                    getBotResponseAdvisory();
+                    return;
+                }
+
+                $.get(`/get/${responeType}`, { msg: rawText + "" }).done(function (data) {
+                    var botHtml = '<div class="botText">\
+                        <div><img src="https://i.kym-cdn.com/entries/icons/original/000/028/526/honklhonk.jpg" alt="Bot"\
+                        style = "width:100%;" ></div>\
+                        <div><span>' + (data && data.output) + '</span></div></div>';
+
+                    $("#chatbox").append(botHtml);
+                    document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+
+                    if (data && data.timeOut && data.timeOut.milisecond > 0) {
+                        setTimeout(() => {
+                            let html = '<p class="botText" style="display: inline block"><span>' + (data && data.timeOut && data.timeOut.msg) + '</span></p>';
+                            $("#chatbox").append(html);
+                        }, data.timeOut.milisecond);
+                    }
+                })
+            }
+
+            $("#textInput").keypress(function (e) {
+                if (e.which == 13) {
+                    getBotResponse();
+                }
+            });
+
+            $("#buttonInput").click(function () {
+                getBotResponse();
+            })
+
+            function getBotResponseAdvisory() {
+                responeType = "advisory";
+                $(".active-button").toggleClass("active-button");
+                $("#advisory").toggleClass("active-button");
+
+                var botHtml = '<p class="botText"><span>Bạn muốn được tư vấn về sản phẩm gì ạ</span></p>';
+
+                $("#chatbox").append(botHtml);
+                document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+            }
+
+
+            function getBotResponseRepair() {
+                responeType = "repair";
+                $(".active-button").toggleClass("active-button");
+                $("#repair").toggleClass("active-button");
+
+                var botHtml = '<p class="botText"><span>Bạn muốn được tư vấn về chế độ bảo hành và sửa chữa gì ạ</span></p>';
+
+                $("#chatbox").append(botHtml);
+                document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+            }
+        </script>
+    </div>
+</body>
+
+</html>

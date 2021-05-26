@@ -1,0 +1,55 @@
+{
+	"key": "null",
+	"value_bill": [
+		{
+			"serial": "hd01",
+			"price": "21 000 000",
+			"nameLaptop": "Dell inspiron 1137",
+			"dateBuy": "23 6 2018",
+			"nameCustomer": "Trần Văn A"
+		},
+		
+		{
+			"serial": "hd02",
+			"price": "15 000 000",
+			"nameLaptop": "HP Probook 450 g6",
+			"dateBuy": "12 6 2019",
+			"nameCustomer": "Nguyễn Thị B"
+		},
+		{
+			"serial": "hd03",
+			"price": "15 000 000",
+			"nameLaptop": "HP pavillion",
+			"dateBuy": "14 7 2020",
+			"nameCustomer": "Lưu Thanh C"
+		},
+		{
+			"serial": "hd04",
+			"price": "13 000 000",
+			"nameLaptop": "Asus Vivobook",
+			"dateBuy": "13 8 2020",
+			"nameCustomer": "Chí Phèo"
+		},
+		{
+			"serial": "hd05",
+			"price": "17 000 000",
+			"nameLaptop": "Acer Swift",
+			"dateBuy": "13 12 2020",
+			"nameCustomer": "Thị Nở"
+		},
+		{
+			"serial": "hd06",
+			"price": "42 000 000",
+			"nameLaptop": "Macbook",
+			"dateBuy": "13 7 2010",
+			"nameCustomer": "Cậu Vàng"
+		},
+		{
+			"serial": "hd07",
+			"price": "33 000 000",
+			"nameLaptop": "Dell xps 9300",
+			"dateBuy": "13 7 2020",
+			"nameCustomer": "Nguyễn Bá D"
+		}
+	]
+}

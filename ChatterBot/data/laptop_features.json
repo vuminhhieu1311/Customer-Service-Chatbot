@@ -1,0 +1,33 @@
+{
+  "core": {
+    "i3": "https://xgear.vn/?s=ram+kingston&search_posttype=product",
+    "i5": "https://fptshop.com.vn/may-tinh-xach-tay?cpu=intel-core-i5&sort=ban-chay-nhat",
+    "i7": "https://fptshop.com.vn/may-tinh-xach-tay?cpu=intel-core-i7&sort=ban-chay-nhat"
+  },
+  "ssd": {
+    " ": "https://fptshop.com.vn/may-tinh-xach-tay?o-cung=ssd-128-gb&sort=ban-chay-nhat",
+    "128gb": "https://fptshop.com.vn/may-tinh-xach-tay?o-cung=ssd-128-gb&sort=ban-chay-nhat",
+    "256gb": "https://fptshop.com.vn/may-tinh-xach-tay?o-cung=ssd-256-gb&sort=ban-chay-nhat",
+    "512gb": "https://fptshop.com.vn/may-tinh-xach-tay?o-cung=ssd-512-gb&sort=ban-chay-nhat"
+  },
+  "ram": {
+    "4gb": "https://fptshop.com.vn/may-tinh-xach-tay?ram=4-gb&sort=ban-chay-nhat",
+    "8gb": "https://fptshop.com.vn/may-tinh-xach-tay?ram=8-gb&sort=ban-chay-nhat",
+    "16gb": "https://fptshop.com.vn/may-tinh-xach-tay?ram=16-gb&sort=ban-chay-nhat",
+    "32gb": "https://fptshop.com.vn/may-tinh-xach-tay?ram=32-gb&sort=ban-chay-nhat"
+  },
+  "screen": {
+    "cảm ứng" : "https://fptshop.com.vn/may-tinh-xach-tay?tinh-nang-dac-biet=man-hinh-cam-ung&sort=ban-chay-nhat&fbclid=IwAR0xwNpHs6t76NBizMHMIBuqdJnbdj3AI4mD0oGfwG204cZ-SKqfG0r7sTU",
+    "13 inch": "https://fptshop.com.vn/may-tinh-xach-tay?man-hinh=khoang-13-inch&sort=ban-chay-nhat",
+    "14 inch": "https://fptshop.com.vn/may-tinh-xach-tay?man-hinh=khoang-14-inch&sort=ban-chay-nhat",
+    "15 inch": "https://fptshop.com.vn/may-tinh-xach-tay?man-hinh=khoang-15-inch&sort=ban-chay-nhat"
+  },
+  "màu": {
+    "đen": "https://laptopfull.com/laptop-mau-den/",
+    "trắng": "https://laptopfull.com/laptop-mau-trang/",
+    "bạc": "https://laptopfull.com/laptop-mau-bac/",
+    "xám": "https://laptopfull.com/laptop-mau-xam/",
+    "vàng": "https://laptopfull.com/laptop-mau-vang/",
+    "hồng": "https://laptopfull.com/laptop-mau-hong/"
+  }
+}
